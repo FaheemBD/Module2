@@ -7,7 +7,7 @@ function allEvenNumsForLoop(int $start,int $end,int $step){
 	
 }
 
-allEvenNums(2,20,2);
+allEvenNumsForLoop(2,20,2);
 
 function allEvenNumsWhileLoop($start,$end,$step){
 	$i=$start;
